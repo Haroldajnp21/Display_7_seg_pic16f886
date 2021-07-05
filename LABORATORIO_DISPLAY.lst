@@ -1,4 +1,4 @@
-MPASM 5.84                               A.S   5-18-2021  9:59:45         PAGE  1
+MPASM 5.84                               A.S   7-5-2021  10:53:17         PAGE  1
 
 
 LOC  OBJECT CODE     LINE SOURCE TEXT
@@ -1357,7 +1357,7 @@ MESSAGE[308]: WARNING LEVEL SUPERSEDED BY COMMAND LINE VALUE. (2)
 2007   20D2           01359 __config _config1, FOSC_HS&WDTE_OFF&PWRTE_OFF&MCLRE_OFF&CP_OFF&CPD_OFF&BOREN_OFF&IESO_OFF&FCMEN_OFF&LVP_OFF&DEBUG_OFF
 2008   3FFF           01360 __config _config2, BOR4V_BOR40V&WRT_OFF
                       01361     end
-MPASM 5.84                               A.S   5-18-2021  9:59:45         PAGE  2
+MPASM 5.84                               A.S   7-5-2021  10:53:17         PAGE  2
 
 
 SYMBOL TABLE
